@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Magisk Module Template</string>
+    <string name="module_default_name">Magisk M3 Template</string>
+</resources>

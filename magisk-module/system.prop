@@ -1,0 +1,5 @@
+# Magisk M3 Module Template - System Properties
+# System properties set by resetprop during early boot
+
+# Example: debug.sf.latch_unsignaled=1
+# Example: persist.sys.theme=material_you

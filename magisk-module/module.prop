@@ -1,0 +1,6 @@
+id=mirage_magisk_template
+name=Magisk M3 Module Template
+version=v1.0.0
+versionCode=1
+author=Mirage Team
+description=Production-ready template for Magisk/KernelSU/APatch modules featuring Material Design 3 (M3) Companion App, Libsu root engine, live service logging and dynamic config sync.
